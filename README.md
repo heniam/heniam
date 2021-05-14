@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heniam
-- 👀 I’m interested in FullStack Development 
+- 👀 I’m interested in Front End and FullStack Developments
 - 🌱 I’m currently learning AWS Cloud Development and Serverless 
-- 💞️ I’m looking to collaborate on interting projets and dont hesitate to contact me
+- 💞️ I’m looking to collaborate on Interesting projects and dont hesitate to contact me
 - 📫 How to reach me ... kefluhenok@gmail.com
 
 <!---
